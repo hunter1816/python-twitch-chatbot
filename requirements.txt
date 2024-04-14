@@ -16,7 +16,7 @@ Flask==2.0.1
 greenlet==1.1.0
 hidpidaemon==18.4.6
 httplib2==0.18.1
-idna==2.10
+idna==3.7
 itsdangerous==2.0.1
 jeepney==0.6.0
 Jinja2==3.0.1
