@@ -70,3 +70,4 @@ wadllib==1.3.5
 Werkzeug==2.0.1
 xdg==5
 xkit==0.0.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
